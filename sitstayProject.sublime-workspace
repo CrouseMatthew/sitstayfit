@@ -1,0 +1,460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 44636,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/agency.css",
+			"settings":
+			{
+				"buffer_size": 16810,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"selected_items":
+		[
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"comm",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"comment",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"commen",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 768.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Lead Lizard/Dropbox/Sitstayfit",
+		"/C/Users/Lead Lizard/Dropbox/Sitstayfit/agency",
+		"/C/Users/Lead Lizard/Dropbox/Sitstayfit/agency/css",
+		"/C/Users/Lead Lizard/Dropbox/Sitstayfit/agency/img"
+	],
+	"file_history":
+	[
+		"/C/Users/Lead Lizard/Downloads/noname %282%29 (1).eml",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/Lead Lizard/Downloads/Power_Nurture_Assets_LZD_EMAIL_2__Autoresponder_draft12983.html",
+		"/C/Users/Lead Lizard/Dropbox/work Docs/work/scratchTWO.html",
+		"/C/Users/Lead Lizard/Package Control Messages"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"下载工作表",
+			"<strong>",
+			"download",
+			"<hr>",
+			"hr",
+			"padding",
+			"hr",
+			"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<html>\n<head>\n  <title>Tektronix</title>\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width\">\n  <style type=\"text/css\">\nh1 a:active {\ncolor: #2ba6cb !important;\n}\nh2 a:active {\ncolor: #2ba6cb !important;\n}\nh3 a:active {\ncolor: #2ba6cb !important;\n}\nh4 a:active {\ncolor: #2ba6cb !important;\n}\nh5 a:active {\ncolor: #2ba6cb !important;\n}\nh6 a:active {\ncolor: #2ba6cb !important;\n}\nh1 a:visited {\ncolor: #2ba6cb !important;\n}\nh2 a:visited {\ncolor: #2ba6cb !important;\n}\nh3 a:visited {\ncolor: #2ba6cb !important;\n}\nh4 a:visited {\ncolor: #2ba6cb !important;\n}\nh5 a:visited {\ncolor: #2ba6cb !important;\n}\nh6 a:visited {\ncolor: #2ba6cb !important;\n}\n#logo img\n{\n        outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; clear: both; display: block;\n}\n#banner-image\n{\noutline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; clear: both; display: block; \n}\n#image-three, #image-two, #image-one\n{\n        outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; clear: both; display: block; float: none; margin: 0 auto;\n}\n        #social-media img {\noutline: none;\ntext-decoration: none;\n-ms-interpolation-mode: bicubic;\nwidth: auto;\nmax-width: 100%;\nclear: both;\ndisplay: inline-block;\nborder: none;\n}\n@media only screen and (max-width: 600px) {\n  table[class=\"body\"] img {\n    /*width: auto !important; height: auto !important;*/\n  }\n  table[class=\"body\"] center {\n    min-width: 0 !important;\n  }\n  table[class=\"body\"] .container {\n    width: 95% !important;\n  }\n  table[class=\"body\"] .row {\n    width: 100% !important; display: block !important;\n  }\n  table[class=\"body\"] .wrapper {\n    display: block !important; padding-right: 0 !important;\n  }\n  table[class=\"body\"] .columns {\n    table-layout: fixed !important; float: none !important; width: 100% !important; padding-right: 0px !important; padding-left: 0px !important; display: block !important;\n  }\n  table[class=\"body\"] .column {\n    table-layout: fixed !important; float: none !important; width: 100% !important; padding-right: 0px !important; padding-left: 0px !important; display: block !important;\n  }\n  table[class=\"body\"] .wrapper.first .columns {\n    display: table !important;\n  }\n  table[class=\"body\"] .wrapper.first .column {\n    display: table !important;\n  }\n  table[class=\"body\"] table.columns td {\n    width: 100% !important;\n  }\n  table[class=\"body\"] table.column td {\n    width: 100% !important;\n  }\n  table[class=\"body\"] .columns td.one {\n    width: 8.333333% !important;\n  }\n  table[class=\"body\"] .column td.one {\n    width: 8.333333% !important;\n  }\n  table[class=\"body\"] .columns td.two {\n    width: 16.666666% !important;\n  }\n  table[class=\"body\"] .column td.two {\n    width: 16.666666% !important;\n  }\n  table[class=\"body\"] .columns td.three {\n    width: 25% !important;\n  }\n  table[class=\"body\"] .column td.three {\n    width: 25% !important;\n  }\n  table[class=\"body\"] .columns td.four {\n    width: 33.333333% !important;\n  }\n  table[class=\"body\"] .column td.four {\n    width: 33.333333% !important;\n  }\n  table[class=\"body\"] .columns td.five {\n    width: 41.666666% !important;\n  }\n  table[class=\"body\"] .column td.five {\n    width: 41.666666% !important;\n  }\n  table[class=\"body\"] .columns td.six {\n    width: 50% !important;\n  }\n  table[class=\"body\"] .column td.six {\n    width: 50% !important;\n  }\n  table[class=\"body\"] .columns td.seven {\n    width: 58.333333% !important;\n  }\n  table[class=\"body\"] .column td.seven {\n    width: 58.333333% !important;\n  }\n  table[class=\"body\"] .columns td.eight {\n    width: 66.666666% !important;\n  }\n  table[class=\"body\"] .column td.eight {\n    width: 66.666666% !important;\n  }\n  table[class=\"body\"] .columns td.nine {\n    width: 75% !important;\n  }\n  table[class=\"body\"] .column td.nine {\n    width: 75% !important;\n  }\n  table[class=\"body\"] .columns td.ten {\n    width: 83.333333% !important;\n  }\n  table[class=\"body\"] .column td.ten {\n    width: 83.333333% !important;\n  }\n  table[class=\"body\"] .columns td.eleven {\n    width: 91.666666% !important;\n  }\n  table[class=\"body\"] .column td.eleven {\n    width: 91.666666% !important;\n  }\n  table[class=\"body\"] .columns td.twelve {\n    width: 100% !important;\n  }\n  table[class=\"body\"] .column td.twelve {\n    width: 100% !important;\n  }\n  table[class=\"body\"] td.offset-by-one {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-two {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-three {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-four {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-five {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-six {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-seven {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-eight {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-nine {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-ten {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] td.offset-by-eleven {\n    padding-left: 0 !important;\n  }\n  table[class=\"body\"] table.columns td.expander {\n    width: 1px !important;\n  }\n  table[class=\"body\"] .right-text-pad {\n    padding-left: 10px !important;\n  }\n  table[class=\"body\"] .text-pad-right {\n    padding-left: 10px !important;\n  }\n  table[class=\"body\"] .left-text-pad {\n    padding-right: 10px !important;\n  }\n  table[class=\"body\"] .text-pad-left {\n    padding-right: 10px !important;\n  }\n  table[class=\"body\"] .hide-for-small {\n    display: none !important;\n  }\n  table[class=\"body\"] .show-for-desktop {\n    display: none !important;\n  }\n  table[class=\"body\"] .show-for-small {\n    display: inherit !important;\n  }\n  table[class=\"body\"] .hide-for-desktop {\n    display: inherit !important;\n  }\n \n  *[class]#threeimg {\n    width: 164px !important; margin: 0 auto;padding: 20px 0 !important;\n  }\n  *[class].three-column-layout {\n    padding: 0px !important;\n  }\n  *[class].five.columns.banner-image-layout\n  {\n          display:table !important;\n  }\n  *[class].image-center\n  {\n          text-align:center !important;\n          padding-right:0px !important;\n  }\n  \n}\n</style>\n</head>\n<body style=\"width:100% !important; background:#f8f8f8; min-width:100%; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; text-align:left; line-height:19px; font-size:14px; margin:0; padding:0; \" >\n  <table class=\"body\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:left; height:100%; width:100%; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:0; \" >\n    <tbody >\n      <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0; \" >\n        <td valign=\"top\"  class=\"center\" style=\"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; text-align:center; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:0; \" >\n          <center style=\"width:100%; min-width:582px; \" >\n            <table class=\"container\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:inherit; width:582px; margin:0 auto; padding:0; border:1px solid #907e73; \" >\n              <tbody >\n                <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0; \" >\n                  <td valign=\"top\" align=\"left\" style=\"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:0; \" >\n                    <table class=\"row\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:left; width:100%; position:relative; display:block; padding:0px; \" >\n                      <tbody >\n                        <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0; \" >\n                          <td valign=\"top\" align=\"left\" class=\"wrapper last\" style=\"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:0; \" >\n                            <table class=\"twelve columns\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:left; width:582px; margin:0 auto; padding:0; \" >\n                              <tbody >\n                                <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0; \" >\n                                  <td valign=\"top\" align=\"left\" style=\"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:15px; \" >\n                                    <div class=\"mktEditable\" id=\"logo\" >\n                                      <img border=\"0\" src=\"http://info.tek.com/rs/tektronix/images/Tektronix-Logo-145x55.png\" alt=\"logo\"></div>\n                                  </td>\n                                </tr>\n                              </tbody>\n                            </table>\n                          </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                  </td>\n                </tr>\n                <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0;\">\n                  <td valign=\"top\" align=\"left\" style=\"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:0;\">\n                <hr>\n                  </td>\n                </tr>\n                <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0; \" >\n                  <td valign=\"top\" align=\"left\" style=\"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:0; \" >\n                    <table class=\"row\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:left; width:100%; position:relative; display:block; padding:0px; \" >\n                      <tbody >\n                        <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0; \" >\n                          <td valign=\"top\" align=\"left\" class=\"wrapper last\" style=\"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; text-align:left; color:#222222; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; margin:0; padding:0; \" >\n                            <table class=\"twelve columns\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:left; width:582px; margin:0 auto; padding:0; \" >\n                              <tbody >\n                                <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0; \" >\n                                  <td valign=\"top\"  style=\"font-size:14px; font-family:Arial, Helvetica, sans-serif; line-height:22px; color:#454545; text-align:left; word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; font-weight:normal; margin:0; padding:30px 50px 0px; \" >\n                                    <div style=\"align:left; \" class=\"mktEditable\" id=\"content\" >\n                                      <p>Hi ,</p>\n                                      <p>\n                                        Here is the Power Supply Application Note&nbsp;we promised. I hope you get a lot out of it. If you&rsquo;re interested in even more information about this product, check out all of the details\n                                        <a href=\n\"http://mkto-sj070048.com/v000081a0sUHW0ofP020000\"\n>here</a>\n                                        .\n                                      </p>\n                                      <p> <strong>Or, if you would like to see how much this product costs, or to setup a live demo let me know&hellip;</strong> \n                                      </p>\n                                      <p>\n                                        Request Information on How Much this Product Costs\n                                        <br>Reserve a Live Demo or 1-week Free Trial</p>\n                                      <p>\n                                        Thanks again for your time,\n                                        <br>Kristi</p>\n                                    </div>\n                                  </td>\n                                  <td valign=\"top\" align=\"left\" class=\"expander\" style=\"word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; visibility: hidden; width: 0px; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 14px; margin: 0; padding: 0;\"></td>\n                                </tr>\n                              </tbody>\n                            </table>\n                          </td>\n                        </tr>\n                        <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0;\">\n                          <td valign=\"top\" align=\"left\" style=\"-moz-hyphens: auto; border-collapse: collapse ! important; vertical-align: top; text-align: left; color: rgb(34, 34, 34); font-family: 'Helvetica','Arial',sans-serif; font-weight: normal; line-height: 19px; font-size: 14px; margin: 0px;\"></td>\n                        </tr>\n                      </tbody>\n                    </table>\n                  </td>\n                </tr>\n                <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0; \" >\n                  <td valign=\"top\" align=\"left\" class=\"wrapper last\" style=\"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; text-align:left; position:relative; font-family:'Helvetica', 'Arial', sans-serif; font-weight:normal; line-height:19px; font-size:14px; color:#222222; margin:0; padding:0px; \" >\n                    <table class=\"twelve columns\" style=\"border-spacing:0; border-collapse:collapse; vertical-align:top; text-align:left; width:582px; margin:0 auto; padding:0; display:table !important; \" >\n                      <tbody >\n                        <tr align=\"left\" style=\"vertical-align:top; text-align:left; padding:0; \" >\n                          <td valign=\"top\" align=\"left\" class=\"eight sub-columns\" style=\"word-break:break-word; -webkit-hyphens:auto; -moz-hyphens:auto; hyphens:auto; border-collapse:collapse !important; vertical-align:top; text-align:left; min-width:0px; width:66.666666% !important; color:#454545; font-family:Arial, Helvetica, sans-serif; font-weight:normal; line-height:19px; font-size:11px; margin:0; padding:12px 0 0 12px; \" >\n                            <span class=\"copyright mktEditable\" id=\"copyright\" style=\"font-size:11px; \" ></span>\n                            <hr>\n                            <p style=\"margin-bottom:5px; \" >\n                              <span class=\"copyright mktEditable\" id=\"copyright\" style=\"font-size:11px; \" >\n                                <span style=\"font-size: 12px;\">\n                                  <a target=\"_blank\" href=\n\"http://mkto-sj070048.com/c000200W0U8P0fsHp00b100\" title=\"Contact Us\" style=\"color: #5482ab;\"\n>\n                                    <span style=\"color: #5482ab;\">Contact Us</span>\n                                  </a>\n                                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n                                  <span style=\"color: #777777;\">Follow Us on</span>\n                                  <a target=\"_blank\" href=\n\"http://mkto-sj070048.com/JP2UW00cfH08q100s000000\" title=\"Facebook\" style=\"color: #5482ab;\"\n>\n                                    <span style=\"color: #5482ab;\">Facebook</span>\n                                  </a>\n                                  |\n                                  <a target=\"_blank\" href=\n\"http://mkto-sj070048.com/hU0fd0P00W0000s18020Hr0\" title=\"Twitter\" style=\"color: #5482ab;\"\n>\n                                    <span style=\"color: #5482ab;\">Twitter</span>\n                                  </a>\n                                </span>\n                                <br>\n                                <br>\n                                <span style=\"font-size: 12px;\">\n                                  <span style=\"color: #777777;\">&reg; 2014</span>\n                                  <a target=\"_blank\" href=\n\"http://mkto-sj070048.com/V0Ps000s1f0H200WU000e80\" title=\"Tektronix\" style=\"color: #5482ab;\"\n>\n                                    <span style=\"color: #5482ab;\">Tektronix, Inc.</span>\n                                  </a>\n                                  <span style=\"color: #777777;\">\n                                    | PO Box 500 | 14150 SW Karl Braun Drive, Beaverton, OR 97077\n                                  </span>\n                                </span>\n                                <br>\n                                <span style=\"font-size: 12px;\">\n                                  <span style=\"color: #777777;\">Read about our</span>\n                                  <a target=\"_blank\" href=\n\"http://mkto-sj070048.com/qfHW0s00Ut080102P00f000\" title=\"Privacy Statement\" style=\"color: #5482ab;\"\n>\n                                    <span style=\"color: #5482ab;\">privacy policy</span>\n                                  </a>\n                                  .\n                                </span>\n                                <br>\n                                <br>\n                                <span style=\"color: #5482ab; font-size: 12px;\">\n                                  <a href=\n\"http://mkto-sj070048.com/ug80000P0U0s0u02100WHf0\" style=\"color: #5482ab;\"\n>View this message as a webpage</a>\n                                  .\n                                </span>\n                              </span>\n                            </p>\n                            <p></p>\n                            <!--[if gte mso 9]>\n                            <p>&nbsp;</p>\n                            <![endif]--> </td>\n                        </tr>\n                      </tbody>\n                    </table>\n                  </td>\n                </tr>\n              </tbody>\n            </table>\n          </center>\n        </td>\n      </tr>\n    </tbody>\n  </table>\n\n  <IMG SRC=\"http://mkto-sj070048.com/trk?t=1&mid=NTg0LVdQSC04NDA6MTYzMzk6MDowOjA6MTI5ODU6MDowOmxlYWRsaXphcmQuOTAyNDJhOC5uZXdAZW1haWx0ZXN0cy5jb20%3D\" WIDTH=\"1\" HEIGHT=\"1\" BORDER=\"0\" ALT=\"\" />\n\n  <p > <font face=\"Verdana\" size=\"1\">This email was sent to leadlizard.90242a8.new@emailtests.com.\n      <a href=\n\"http://mkto-sj070048.com/u/DW8000m0HP00010fU8200s0\" style=\"color: #0780D7;\"\n>Manage your preferences here</a>\n      or you may\n      <a href=\n\"http://mkto-sj070048.com/u/c000200W0U8P0fsHn009100\" style=\"color: #0780D7;\"\n>unsubscribe</a>\n      at any time.</font> \n  </p>\n</body>\n</html>",
+			"hr",
+			"border-color",
+			"grey",
+			"align=\"center\"",
+			"align=center",
+			"align = center",
+			"SSP",
+			"SSPs",
+			"SSP",
+			"deviceHeader",
+			"webLink",
+			"bodyWrap",
+			"headerSubTitle",
+			"body_subj",
+			"body_Copy",
+			"headerTitle",
+			"body_Copy",
+			"centerImg",
+			"headerTitle",
+			"placeholder",
+			"mobileHide",
+			"class=\"center\"",
+			"center",
+			"deviceWidth",
+			"class=\"deviceWidth\"",
+			"There",
+			"<br>",
+			"First",
+			"id",
+			"body_Copy",
+			"360",
+			"deviceWidth",
+			"bodyWrap",
+			"50px",
+			"50px	",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<!-- align=\"center\" -->",
+			"/*align=\"center\"*/",
+			"Self Service Portal",
+			"Self Service Portals",
+			"Self Service Portal",
+			"bodySubj",
+			"bodyText",
+			"titleText",
+			"responsiveImg",
+			"centerImg",
+			"class = \"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10016,
+								10016
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/agency.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sitstayProject.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
